@@ -20,6 +20,6 @@ I am Rami Toumi, currently studing Software Engineering and Information Systems 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratomidev&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratomidev&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=83437014)
