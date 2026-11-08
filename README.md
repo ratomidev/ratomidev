@@ -1,6 +1,1 @@
-# Rami Toumi
-
-
----
-
-Portfolio: ramitoumi.site · LinkedIn: linkedin.com/in/rami-toumi
+ramitoumi.site | linkedin.com/in/rami-toumi
